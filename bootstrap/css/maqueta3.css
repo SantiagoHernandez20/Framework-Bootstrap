@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body {
+    font-family: sans-serif;
+}
+
+#col1 {
+    height: 70px;
+    border: 2px solid ;
+
+    background-color: #c1dda0;
+}
+#col2 {
+    height: 200px;
+    border: 2px solid ;
+
+    background-color: #fce238;
+}
+#col3 {
+    height: 400px;
+    border: 2px solid ;
+
+    background-color: #c4dcbc;
+}
+#col4 {
+    border: 2px solid;
+    height: 200px;
+    background-color: #fea13c;
+}
+#col5 {
+    height: 70px;
+    border: 2px solid ;
+    background-color: #dac477;
+}

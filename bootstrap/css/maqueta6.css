@@ -1,0 +1,81 @@
+.container {
+    position: relative;
+    max-width: 1000px;
+    top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#caja {
+    
+    border: 2px solid;
+}
+
+#titulo h1 {
+    position: relative;
+    text-align: center;
+}
+#caja3 {
+    position: relative;
+    top: 60px;
+}
+#caja4 {
+    position: relative;
+    top: 60px;
+
+}
+#caja5 {
+    position: relative;
+    top: 60px;
+
+}
+#caja6 {
+    position: relative;
+    bottom: 20px;
+}
+#caja7 {
+    position: relative;
+    bottom: 20px;
+    
+}
+#caja8 {
+    position: relative;
+    bottom: 20px;
+    
+}
+#caja9 {
+    position: relative;
+    bottom: 20px;
+    
+}
+#caja10 {
+    position: relative;
+    bottom: 20px;
+    
+}
+@media screen and (max-width: 768px) {
+    #caja1 img {
+        width: 730px;
+    }
+    #caja2 img {
+        width: 730px;
+
+    }
+    
+    #caja3 img {
+        width: 730px;
+    }
+    #caja4 img {
+        width: 730px;
+    }
+   
+    #caja5 img {
+        width: 730px;
+    }
+   
+
+}
+@media screen and (max-width : 576px) {
+
+   
+
+}
