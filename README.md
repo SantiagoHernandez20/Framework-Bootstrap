@@ -23,7 +23,12 @@
         -Se busco los colores para contrastar la pagina
         
         
-        Ejercicios Bootstrap
+        Ejercicios Bootstrap:
+        
+        - Contiene maqueta 1.1, maqueta 2, maqueta 3, maqueta 4, maqueta 5 y maqueta 6.
+        - Estan en tamaños adaptables a todos los dispositivos
+        - Responsive
+        
       
 
 
