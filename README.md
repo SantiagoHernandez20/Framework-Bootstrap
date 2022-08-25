@@ -14,7 +14,7 @@
                  
                  
                  
-         Version 4.0.0
+         -Version 4.0.0
 
         -Se agrego los rechos de autor copyright
 
@@ -25,7 +25,7 @@
         -Se busco los colores para contrastar la pagina
         
         
-          Ejercicios Bootstrap
+        -Ejercicios Bootstrap
       
 
 
