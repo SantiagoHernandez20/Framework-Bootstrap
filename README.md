@@ -8,7 +8,9 @@
           -FICHA: 2558346                                                      -FECHA MODIFICACION: 24/08/2022
    
              -FECHA DE CREACION: 24/08/202                                         -ENTIDAD: CENTRO DE BIOTECNOLOGIA AGROPECUARIA                                                                      
-                        https://raw.githubusercontent.com/SantiagoHernandez20/SENA-2/main/capturas/1.jpg
+
+                        ![](https://github.com/SantiagoHernandez20/SENA-2/main/capturas/1.jpg)
+
 
 
                                                            
