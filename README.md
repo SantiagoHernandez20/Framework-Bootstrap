@@ -8,7 +8,8 @@
           -FICHA: 2558346                                                      -FECHA MODIFICACION: 24/08/2022
    
              -FECHA DE CREACION: 24/08/202                                         -ENTIDAD: CENTRO DE BIOTECNOLOGIA AGROPECUARIA                                                                      
-                                                                                   
+                        <img src="/docs/logo.png" alt="My cool logo"/>
+                                                           
                                         
      
                  
