@@ -8,10 +8,9 @@
           -FICHA: 2558346                                                      -FECHA MODIFICACION: 24/08/2022
    
              -FECHA DE CREACION: 24/08/202                                         -ENTIDAD: CENTRO DE BIOTECNOLOGIA AGROPECUARIA                                                                      
-![ejercicio1](https://user-images.githubusercontent.com/98421206/188330633-cd465f61-182a-4212-a1d2-802bb06f14b1.jpg)
 
-                    
-                        ![ejercicio1](https://user-images.githubusercontent.com/98421206/188330641-c007f732-a323-42f2-94f1-3e0ce55482db.jpg)
+![Mi proyecto](https://user-images.githubusercontent.com/98421206/188353185-3f4ef697-ad0b-4e20-afcc-7df40da155ef.jpg)
+
 
 
 
