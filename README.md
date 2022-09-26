@@ -16,8 +16,9 @@
 
         
         
-        Ejercicios Bootstrap:
+        Ejercicios FrameWork Bootstrap:
         
+        - Contiene carpetas (Css, img y js)
         - Contiene maqueta 1.1, maqueta 2, maqueta 3, maqueta 4, maqueta 5 y maqueta 6.
         - Estan en tamaños adaptables a todos los dispositivos
         - Responsive
