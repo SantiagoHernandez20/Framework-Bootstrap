@@ -8,15 +8,13 @@
             
           -FICHA: 2558346                                                      -FECHA MODIFICACION: 26/09/2022
    
-             -FECHA DE CREACION: 24/08/202                                         -ENTIDAD: CENTRO DE BIOTECNOLOGIA AGROPECUARIA                                                                      
-
+             -FECHA DE CREACION: 24/08/202                                         -ENTIDAD: CENTRO DE BIOTECNOLOGIA AGROPECUARIA                                         
 
   
                  
 
-        
-        
-        Ejercicios FrameWork Bootstrap:
+       
+        -Ejercicios FrameWork Bootstrap:
         
         - Contiene carpetas (Css, img y js)
         - Contiene maqueta 1.1, maqueta 2, maqueta 3, maqueta 4, maqueta 5 y maqueta 6.
