@@ -1,0 +1,31 @@
+
+body {
+    font-family: sans-serif;
+}
+
+#col1 {
+   
+    border: 2px solid ;
+    background-color: bisque;
+}
+#col2 {
+
+    border: 2px solid ;
+
+    background-color: chartreuse;
+}
+#col3 {
+  
+    border: 2px solid ;
+    background-color: blue;
+}
+#col4 {
+    border: 2px solid;
+  
+    background-color: #fea13c;
+}
+#col5 {
+ 
+    border: 2px solid ;
+    background-color: #dac477;
+}
