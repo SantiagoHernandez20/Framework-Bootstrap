@@ -1,0 +1,21 @@
+#col1{
+    border: 3px solid white;
+}
+#col2{
+    border: 3px solid white;
+}
+
+#col3{
+    border: 3px solid white;
+}
+#col4{
+    border: 3px solid white;
+}
+#col5{
+    border: 3px solid white;
+    float: left;
+}
+#col6{
+    border: 3px solid white;
+    float: right;
+}
